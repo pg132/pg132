@@ -23,6 +23,6 @@ I have multiple forks of various websites and have made multiple pull requests. 
 
 Play my fork of z-pordle [here](https://pg132.github.io/zpordle). 
 
-Play my some of my games like [The Incrementreeverse](https://raw.githack.com/pg132/The-Modding-Tree/master/index.html), [Prestige Chain](https://raw.githack.com/pg132/The-Modding-Tree/buyables/index.html), [The Tree of Life](http://raw.githack.com/pg132/The-Modding-Tree/evolution/index.html), or [Prestige Tree: Reincarnated](http://raw.githack.com/pg132/The-Modding-Tree/prestige_chain/index.html). 
+My best games are [The Incrementreeverse](https://raw.githack.com/pg132/The-Modding-Tree/master/index.html), [Prestige Chain](https://raw.githack.com/pg132/The-Modding-Tree/buyables/index.html), [The Tree of Life](http://raw.githack.com/pg132/The-Modding-Tree/evolution/index.html), and [Prestige Tree: Reincarnated](http://raw.githack.com/pg132/The-Modding-Tree/prestige_chain/index.html). 
 
 I have self-taught javascript, so I spend a lot of time making things more streamlined (see [here](https://github.com/pg132/The-Modding-Tree/blob/prestige_chain/js/utils/buyablesSupport.js)). Note that I use GitKraken, so pushes don't appear on my page and patch dates are often wrong. 
